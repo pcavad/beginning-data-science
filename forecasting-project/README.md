@@ -1,5 +1,5 @@
 # Forecasting Project for order transactions #
-(only for educational purposes, no real data. Please refer to this readme file to see plots and tables).
+(only for educational purposes, no real data. Please refer to this readme file to see plots and tables). 
 
 ## Business understanding - main objective of the analysis ##
 
