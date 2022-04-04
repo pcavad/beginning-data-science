@@ -1,1 +1,1 @@
-##Helper functions
+Support images for the presentation Notebook.
