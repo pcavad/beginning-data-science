@@ -9,7 +9,7 @@ Using different ML models for a timeseries forecasting.
 - ETL.ipynb: Extract, Transform, Load.
 - EDA.ipynb: Exploratory Data Analysis.
 - Forecasting.ipynb:
-  -  ARIMA
+  -  ARMA
   -  SARIMA
   -  DL: feed forward neural network
   -  LSTM
