@@ -14,3 +14,5 @@ Chest X-rays image classification using Keras and a convolutional neural network
   - Regularization
   - Transfer Learning
   - Autoencoders
+
+Dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
