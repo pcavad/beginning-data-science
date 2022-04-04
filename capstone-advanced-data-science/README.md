@@ -7,3 +7,5 @@ X-rays image classification with Deep Learning (Capstone project for the IBM Adv
 - ADS capstone peers: presentation for the peers review
 - ADS capstone stakeholders: presentation for the stakeholders
 - Chest X-ray classification ADD: Architectural Decision Document
+
+Dataset https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
