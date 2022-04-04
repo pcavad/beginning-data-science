@@ -5,3 +5,6 @@
 - Machine Learning with IBM
 
 Note: the notebooks represent a learning path. They don't showcase best practises nor coding conventions.
+
+# Content:
+##1. 
