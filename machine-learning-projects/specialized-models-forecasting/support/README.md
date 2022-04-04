@@ -1,1 +1,3 @@
-Support images for the presentation Notebook.
+# Helper functions.
+
+Will be used by the Jupyter Notebooks.
