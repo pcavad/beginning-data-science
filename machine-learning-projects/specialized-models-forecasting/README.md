@@ -14,3 +14,5 @@ Using different ML models for a timeseries forecasting.
   -  DL: feed forward neural network
   -  LSTM
   -  FB Prophet
+
+Data from the customer have been made anonymous for confidentiality reasons. 
