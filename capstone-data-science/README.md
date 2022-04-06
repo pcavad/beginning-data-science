@@ -9,5 +9,5 @@ Car sharing and neighborhoods in Milan, Italy (Capstone project for the Data Sci
 - MilanP: presentation.
 
 Data:
-Foursquare API
-Open dataset portal of the Municipality of Milan (https://dati.comune.milano.it/dataset)
+- Foursquare API
+- Open dataset portal of the Municipality of Milan (https://dati.comune.milano.it/dataset)
