@@ -27,3 +27,5 @@ Note: the notebooks represent a learning path.
 - statsmodels
 - scipy
 - keras
+- folium
+- Foursquare API
