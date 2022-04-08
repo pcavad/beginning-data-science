@@ -8,6 +8,6 @@ Different projects from the Machine Learning with IBM specialization (only for e
 - supervised-learning-classification.ipynb: how to determine the cuisine of a given recipe.
 - unsupervised-learning.ipynb: use clustering to improve the classification project.
 - specialized-models-forecasting: forecast timeseries for business transactions.
-- clustering-neighborhoods-Toronto: unsupervised learning project (KMeans).
+- clustering-neighborhoods-Toronto: unsupervised learning project (KMeans) - use https://nbviewer.org/ to see the images!
 
 I normally used data provided along each training program except for the specialized models where I re-used data from a customer and I made them anonymous for confidentialtiy reasons.
