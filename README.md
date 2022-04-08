@@ -21,7 +21,9 @@ Note: the notebooks represent a learning path.
 - pandas
 - numpy
 - matplotlib
+- seaborn
 - os
 - sklearn
 - statsmodels
 - scipy
+- keras
