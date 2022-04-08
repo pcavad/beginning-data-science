@@ -11,3 +11,17 @@ Note: the notebooks represent a learning path.
 - 2. Capstone project Data Science with IBM specialization (unsupervised classification).
 - 3. Capstone project Machine Learning with IBM specialization (image classification with a CNN and optimizations).
 - 4. Machine Learning projects (regression, classification, clustering).
+
+# Programming: python.
+
+# Tools: Jupyter Notekook (.ipynb)
+
+# Libraries:
+
+- pandas
+- numpy
+- matplotlib
+- os
+- sklearn
+- statsmodels
+- scipy
