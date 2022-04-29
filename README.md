@@ -3,6 +3,7 @@
 - Data Science professional with IBM
 - Advanced Data Science with IBM
 - Machine Learning with IBM
+- AI Engineering with IBM
 
 Note: the notebooks represent a learning path.
 
@@ -10,7 +11,8 @@ Note: the notebooks represent a learning path.
 - 1. Capstone project Adavanced Data Science with IBM specialization (image classification with a CNN).
 - 2. Capstone project Data Science with IBM specialization (unsupervised classification).
 - 3. Capstone project Machine Learning with IBM specialization (image classification with a CNN and optimizations).
-- 4. Machine Learning projects (regression, classification, clustering).
+- 4. Capstone project AI Engineering with IBM (image classification with pre-trained ResNet50 and VGG16).
+- 5. Machine Learning projects (regression, classification, clustering).
 
 # Programming: python.
 
@@ -27,5 +29,7 @@ Note: the notebooks represent a learning path.
 - statsmodels
 - scipy
 - keras
+- TensorFlow
+- PyTorch
 - folium
 - Foursquare API
