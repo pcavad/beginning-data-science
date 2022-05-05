@@ -1,6 +1,6 @@
 ## #MakeoverMondayCoursera Community Project Activity
 
-[Link to dashboard](https://public.tableau.com/views/WDI_16516753035860/Dashboard?:language=it-IT&publish=yes&:display_count=n&:origin=viz_share_link)
+[Link to my dashboard in Tableau Public](https://public.tableau.com/views/WDI_16516753035860/Dashboard?:language=it-IT&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Dataset: 2019 Week 10 - World Development Indicators: Health & Equality](https://data.world/makeovermonday/2019w10)
 
