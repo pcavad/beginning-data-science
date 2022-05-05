@@ -2,7 +2,9 @@
 
 [Link to dashboard](https://public.tableau.com/views/WDI_16516753035860/Dashboard?:language=it-IT&publish=yes&:display_count=n&:origin=viz_share_link)
 
-You can download a preview in this GitHub folder. See the file preview.jpg.
+Preview (but check the dashboard to experiment the interaction):
+
+![preview](https://user-images.githubusercontent.com/64132836/166930258-81a48adf-7d2c-44d0-98b2-500bd3ee7b08.jpg)
 
 [Dataset: 2019 Week 10 - World Development Indicators: Health & Equality](https://data.world/makeovermonday/2019w10)
 
