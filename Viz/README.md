@@ -1,3 +1,3 @@
 # Collection of visualizations
 
-(https://bit.ly/3NsCzvA)[ACME - Google Data Studio]
+[ACME - Google Data Studio](https://bit.ly/3NsCzvA)
