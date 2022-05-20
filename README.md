@@ -5,7 +5,7 @@
 - Machine Learning with IBM
 - AI Engineering with IBM
 
-I also included a folder with visualizations.
+I also included a folder with links to visualizations (Google Data Studio and Tableau).
 
 Note: the notebooks mirror a learning path.
 
