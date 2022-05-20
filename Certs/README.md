@@ -1,1 +1,0 @@
-## Specializations, courses, IBM badges
