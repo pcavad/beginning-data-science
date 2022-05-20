@@ -5,7 +5,9 @@
 - Machine Learning with IBM
 - AI Engineering with IBM
 
-Note: the notebooks represent a learning path.
+I also included a folder with visualizations.
+
+Note: the notebooks mirror a learning path.
 
 # Content:
 - 1. Capstone project Adavanced Data Science with IBM specialization (image classification with a CNN).
