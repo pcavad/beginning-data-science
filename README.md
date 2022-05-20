@@ -7,14 +7,14 @@
 
 I also included a folder with links to visualizations (Google Data Studio and Tableau).
 
-Note: the notebooks mirror a learning path.
-
 # Content:
 - 1. Capstone project Adavanced Data Science with IBM specialization (image classification with a CNN).
 - 2. Capstone project Data Science with IBM specialization (unsupervised classification).
 - 3. Capstone project Machine Learning with IBM specialization (image classification with a CNN and optimizations).
 - 4. Capstone project AI Engineering with IBM (image classification with pre-trained ResNet50 and VGG16).
 - 5. Machine Learning projects (regression, classification, clustering).
+
+Note: code style and conventions in the notebooks mirror a learning path.
 
 # Programming: python.
 
