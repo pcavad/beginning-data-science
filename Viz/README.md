@@ -1,9 +1,9 @@
 # Collection of visualizations
 
-[ACME - Google Data Studio](https://bit.ly/3tSOefF)
+[ACME dashboards - Google Data Studio](https://bit.ly/3tSOefF)
+
+[ACME story - Tableau Public](https://tabsoft.co/3NalYMl)
 
 [Covid dashboard - Google Data Studio](https://bit.ly/385ve64)
-
-[ACME - Tableau Public](https://tabsoft.co/3NalYMl)
 
 [World Inequality Index - Tableau Public](https://tabsoft.co/39vUHFU)
