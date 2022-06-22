@@ -4,6 +4,6 @@
 
 [Covid dashboard - Google Data Studio](https://bit.ly/385ve64)
 
-[World Inequality Index - Tableau Public](https://tabsoft.co/39vUHFU)
+[ACME - Tableau Public](https://tabsoft.co/3NalYMl)
 
-[A visualization for your manager - Tableau Public](https://tabsoft.co/3sx6UB4)
+[World Inequality Index - Tableau Public](https://tabsoft.co/39vUHFU)
