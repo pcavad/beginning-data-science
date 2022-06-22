@@ -1,6 +1,6 @@
 # Collection of visualizations
 
-[ACME - Google Data Studio](https://bit.ly/3NsCzvA)
+[ACME - Google Data Studio](https://bit.ly/3tSOefF)
 
 [Covid dashboard - Google Data Studio](https://bit.ly/385ve64)
 
